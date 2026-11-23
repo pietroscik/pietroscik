@@ -11,7 +11,7 @@ I build **reproducible quantitative pipelines** where actuarial-grade statistica
 
 **Catastrophe Risk & Geospatial Modeling (R&D)**
 - [`cat-nat-analisi-spaziale`](https://github.com/pietroscik/cat-nat-analisi-spaziale) — Cat-Nat spatial analysis under L. 78/2025: firm-level (AIDA) → municipality-level exposure, SDM machine learning, spatial sensitivity.
-- [`campi-flegrei-quantitative-monitoring`](https://github.com/pietroscik/campi-flegrei-quantitative-monitoring) / [`Flegrei_Alert_2026`](https://github.com/pietroscik/Flegrei_Alert_2026) — multivariate quantitative monitoring of volcanic unrest.
+- [`campi-flegrei-quantitative-monitoring`](https://github.com/pietroscik/campi-flegrei-quantitative-monitoring) — multivariate quantitative monitoring of volcanic unrest (legacy `Flegrei_Alert_2026` content preserved under `legacy-flegrei-alert-2026/` — original repo now private).
 - [`Pipeline-Sismologica-Geospaziale`](https://github.com/pietroscik/Pipeline-Sismologica-Geospaziale) / [`DTM-LIDAR`](https://github.com/pietroscik/DTM-LIDAR) — Docker-based geospatial pipelines (seismic, DTM/LiDAR, flood risk), MLflow experiment tracking.
 
 **RegTech / SupTech Methodological Prototyping**
