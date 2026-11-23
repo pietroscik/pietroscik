@@ -1,6 +1,7 @@
 # Pietro Maietta — Quantitative Risk & Geospatial Analyst
 
-**M.Sc. in Statistical & Actuarial Sciences (LM-83)** · M.Sc. in Maritime Economics & Management · Quantitative R&D on risk modeling, spatial econometrics and supervisory technology.
+**M.Sc. in Statistical & Actuarial Sciences (LM-83)** · **M.Sc. in Maritime Economics & Management (LM-77)** ·
+Quantitative R&D on risk modeling, spatial econometrics and supervisory technology.
 
 I build **reproducible quantitative pipelines** where actuarial-grade statistical rigor meets software engineering: containerized environments, tested code, versioned data workflows and documented methodological assumptions.
 
